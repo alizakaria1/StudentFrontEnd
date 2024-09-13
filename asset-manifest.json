@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StudentFrontEnd/static/css/main.f855e6bc.css",
+    "main.js": "/StudentFrontEnd/static/js/main.7bd5195f.js",
+    "static/js/453.67bc29aa.chunk.js": "/StudentFrontEnd/static/js/453.67bc29aa.chunk.js",
+    "static/media/logo.svg": "/StudentFrontEnd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/StudentFrontEnd/index.html",
+    "main.f855e6bc.css.map": "/StudentFrontEnd/static/css/main.f855e6bc.css.map",
+    "main.7bd5195f.js.map": "/StudentFrontEnd/static/js/main.7bd5195f.js.map",
+    "453.67bc29aa.chunk.js.map": "/StudentFrontEnd/static/js/453.67bc29aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7bd5195f.js"
+  ]
+}
