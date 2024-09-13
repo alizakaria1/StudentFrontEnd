@@ -25,6 +25,10 @@ function App() {
     student.grade = grade;
     student.passed = dropdownBoolean;
     const res = await addStudent(student);
+    setName("");
+    setGrade("");
+    setDropdown("");
+    setStudentId("");
     if (res) {
       const stud = await getAllStudents();
       setStudents(stud);
